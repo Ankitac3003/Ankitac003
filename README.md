@@ -1,75 +1,74 @@
 <h1 align="center">Hi 👋, I'm Ankit Chauhan</h1>
-<h3 align="center">💻 Automation | 🧠 AI/ML Enthusiast | ⚙️ Automation Explorer</h3>
+<h3 align="center">🔧 Test Automation Specialist | ☁️ Cloud Testing Expert | 🚀 DevOps & QA Infrastructure Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harsh43580&label=Profile%20views&color=0e75b6&style=flat" alt="harsh43580" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitchauhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitchauhan-dev" />
 </p>
 
-- 🔭 I’m currently building: **AI-powered automation and trading systems**
-- 🌱 I’m learning: **Deep Learning, Gen AI and AI Agents**
-- 💬 Ask me about: **Python, Automation, AI, or cool tech ideas**
-- 📫 Reach me at: **[hk43580@gmail.com](mailto:hk43580@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/harsh0612/)**
+- 🔭 I’m currently working on: **Scalable Selenium/TestNG automation frameworks integrated with LambdaTest and CI/CD**
+- 🌱 Currently exploring: **Playwright, GitHub Actions, Mobile automation (BrowserStack/LambdaTest) & Containerized QA setups**
+- 💬 Ask me about: **Selenium, TestNG, LambdaTest, Playwright, Docker, CI/CD pipelines**
+- 📫 Reach me at: **[ankitc.email@gmail.com](mailto:ankitc.email@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/ankit-c-08319391/)**
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### 💡 Languages & Frameworks
+#### ⚙️ Test Automation & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-F2A2C0?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA6C?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
 
-#### 📊 Data Science & Machine Learning
+#### ☁️ Cloud Platforms
 <p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-5382A1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LambdaTest-292961?style=for-the-badge&logo=lambdatest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BrowserStack-ED6C30?style=for-the-badge&logo=browserstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white"/>
 </p>
 
-#### 🤖 Deep Learning & Gen AI
+#### 🧰 DevOps & Infra
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFAE42?style=for-the-badge&logoColor=black"/>
-</p>
-
-#### 🧰 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Concourse-339933?style=for-the-badge&logo=concourse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
+
+#### 🔤 Languages & Utilities
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh43580&show_icons=true&theme=radical)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitchauhan-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh43580&layout=compact&theme=radical)
-
----
-
-### 🎮 Currently Learning Through Projects
-
-- 🤖 **AI-powered Resume Bot**
-- 📈 **ML-powered Trading Bot**
-- 🧠 **NLP-based Contextual Systems**
-- 💼 **Custom LLM Workflows & Finetuning**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchauhan-dev&layout=compact&theme=radical)
 
 ---
 
-### 🎯 Let's Connect!
+### 📂 Projects & Work Highlights
+
+- ⚙️ **Automation Frameworks** for parallel execution and cross-browser testing
+- 📱 **Mobile Test Automation** for hybrid/native apps using BrowserStack/LambdaTest
+- 🐳 **Containerized Testing Setups** with Docker and Selenium Grid
+- 🚀 **CI/CD Pipeline Integrations** (GitHub Actions, Azure DevOps, Jenkins)
+- 🧪 **Playwright + Mocha Frameworks** for headless testing & debugging
+
+---
+
+### 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:hk43580@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harsh0612/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ankitc.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ankit-c-08319391/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
